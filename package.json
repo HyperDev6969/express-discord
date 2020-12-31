@@ -1,0 +1,27 @@
+{
+  "name": "express-discord-oauth",
+  "version": "1.0.0",
+  "description": "Implement OAUTH2 in to your express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyperDev6969/express-discord.git"
+  },
+  "keywords": [
+    "express",
+    "discord",
+    "oauth2",
+    "discord-oauth2",
+    "authentication",
+    "easy"
+  ],
+  "author": "HyperDev6969",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyperDev6969/express-discord/issues"
+  },
+  "homepage": "https://github.com/HyperDev6969/express-discord#readme"
+}
